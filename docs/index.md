@@ -1,6 +1,6 @@
 ## Hello World
 
-This is the training site for @ayanagimachi.
+This is the training site for @ayanagimachi.  
 Please access below each blog post.
 
 <!--

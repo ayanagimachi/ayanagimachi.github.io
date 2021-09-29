@@ -7,7 +7,7 @@ categories: jekyll update
 
 ### Webプログラミングのための環境構築メモ for Windows
 
-1. Node.js/NPMをインストール
+1. Node.js/NPM/NVMをインストール
 2. Editorソフト(VS Code)をインストールする
 3. Git/GitHubを準備する
 4. AdminLTEを知る
@@ -15,13 +15,16 @@ categories: jekyll update
 6. Fontawesomeを知る
 
 
-### 1. Node.js/NPMのインストール
+### 1. Node.js/NPM/NVMのインストール
 [Node.jsインストールリンク](https://nodejs.org/en/)  
 Node.jsって？ : 
   Node.jsはJavaScriptのライブラリです。
   
 NPMって？
   Node Package Managerの略です。～～～  
+
+NVMって？  
+  
   
 [手順]  
   上記リンクのサイトからパッケージをDLし、展開します。  

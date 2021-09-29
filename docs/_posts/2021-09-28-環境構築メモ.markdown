@@ -29,5 +29,23 @@ NPMって？
 
 
 ### 2. Editorソフト(VS Code)をインストールする
-[VS_Codeインストールリンク] (https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+[VS_Codeインストールリンク](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+
+
+### 3. Git/GitHubを準備する
+ここ毎回つまずくんです
+
+
+### 4. AdminLTEを知る
+[AdminLTEサイト](https://adminlte.io/themes/dev/AdminLTE/index.html)  
+現時点の最新版はAdminLTE3です。
+
+
+### 5. Bootstrapを知る
+[Bootstrap4_cheatseet](https://hackerthemes.com/bootstrap-cheatsheet/)
+
+
+### 6. Fonrawesomeを知る
+[Fontawesome](https://fontawesome.com/)  
+[分かりやすい参考サイト:サルワカ](https://saruwakakun.com/html-css/basic/font-awesome)  
 

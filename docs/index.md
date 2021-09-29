@@ -1,6 +1,6 @@
-## Hello World
+## My log
 
-This is the training site for @ayanagimachi.  
+This is the training site for @ayanagimachi as pseudo-SE.
 Please access below each blog post.
 
 <!--

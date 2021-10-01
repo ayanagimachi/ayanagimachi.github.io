@@ -30,7 +30,7 @@ twitter_username: N/A
 github_username:  ayanagimachi
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
 
